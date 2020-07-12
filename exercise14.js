@@ -33,3 +33,9 @@ let timesTwo =  function(x) {
 }; 
 var result = timesTwo(8)
 console.log(result)
+
+let tanggal = function(data) {
+    return data - 10;
+}
+var hasil = tanggal(12)
+console.log(hasil)
