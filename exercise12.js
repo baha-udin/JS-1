@@ -13,8 +13,8 @@
 // animals[8] = "Leopard"
 // animals[1] = undefined
 
-var animalsArray = ["lion", "horse"];
-animalsArray.push("duck");
+// var animalsArray = ["lion", "horse"];
+// animalsArray.push("duck");
 
 
 // function balikString1(str) {
